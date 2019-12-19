@@ -1,1 +1,1 @@
-# IP_Grayscale_and_metrics
+# IP_binarization
